@@ -1,0 +1,1500 @@
+{
+    "results:":"[
+        MovieData{
+            id='tt0141842',
+             title='The Sopranos',
+             imageUrl='https://m.media-amazon.com/images/M/MV5BZGJjYzhjYTYtMDBjYy00OWU1LTg5OTYtNmYwOTZmZjE3ZDdhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg',
+             releaseDate='1999-01-10'
+        }
+    ]RatingData{
+        average=9.2,
+         numVotes=450023
+    }    {
+             seasonNumber: 1,
+             episodes:         [
+                                {
+                            id:tt0705282,
+                            episodeNumber:1,
+                            title:Pilot,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BN2I4ODNlODUtNmU3OC00YTNhLTgyODEtYWI4MTZiMjA5OGQ4XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:1999-01-10,
+                            rating:                {
+                                    average:8.4,
+                                    numVotes:11448            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 1,
+             episodes:         [
+                                {
+                            id:tt0705223,
+                            episodeNumber:2,
+                            title:46 Long,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BYThiMjBkOTEtYTMwMi00NDQ3LThkNjgtZjA5NzhmODZjODg0XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:1999-01-17,
+                            rating:                {
+                                    average:8.3,
+                                    numVotes:9227            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 1,
+             episodes:         [
+                                {
+                            id:tt0705239,
+                            episodeNumber:3,
+                            title:Denial,
+                 Anger,
+                 Acceptance,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BNGRlMWVjYzctNGIwNS00YTI5LWI5M2MtZDQxM2MyMjM2ODljXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:1999-01-24,
+                            rating:                {
+                                    average:8.6,
+                                    numVotes:8985            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 1,
+             episodes:         [
+                                {
+                            id:tt0705263,
+                            episodeNumber:4,
+                            title:Meadowlands,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BYjg1YTc5ZTEtZWQzYS00NGFjLTk5NzgtYWUwYjI2ZTQxNDYwXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:1999-01-31,
+                            rating:                {
+                                    average:8.6,
+                                    numVotes:8690            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 1,
+             episodes:         [
+                                {
+                            id:tt0705236,
+                            episodeNumber:5,
+                            title:College,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BZjBiMDU0ZmEtYWZjZi00MmRhLTg3ZDAtMTc0OThlYTc2M2M0XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:1999-02-07,
+                            rating:                {
+                                    average:8.9,
+                                    numVotes:9936            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 1,
+             episodes:         [
+                                {
+                            id:tt0705270,
+                            episodeNumber:6,
+                            title:Pax Soprana,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BMzBlMjIxMjItZjE0OC00ZGM1LWI0ODktYzE2MWRiNWMxOWYxXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:1999-02-14,
+                            rating:                {
+                                    average:8.5,
+                                    numVotes:8250            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 1,
+             episodes:         [
+                                {
+                            id:tt0705241,
+                            episodeNumber:7,
+                            title:Down Neck,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BMDc1M2Y4ZjAtNThhNS00NTBlLWIwYzAtNTZiMTg0YTk3ZTMzXkEyXkFqcGdeQXVyNTQ0NjQzNTE@._V1_.jpg,
+                            releaseDate:1999-02-21,
+                            rating:                {
+                                    average:8.4,
+                                    numVotes:7986            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 1,
+             episodes:         [
+                                {
+                            id:tt0705280,
+                            episodeNumber:8,
+                            title:The Legend of Tennessee Moltisanti,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BYzZkYWQ0MDItMGNjYy00NzhiLTg0M2YtZWNmYTU0NTIyMGM5XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:1999-02-28,
+                            rating:                {
+                                    average:8.6,
+                                    numVotes:8017            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 1,
+             episodes:         [
+                                {
+                            id:tt0705231,
+                            episodeNumber:9,
+                            title:Boca,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BMmI0MDJmZjUtYmFiOC00MGZjLWIyZWUtODRjMTE3ZWM4YmU3XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:1999-03-07,
+                            rating:                {
+                                    average:8.5,
+                                    numVotes:7913            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 1,
+             episodes:         [
+                                {
+                            id:tt0705224,
+                            episodeNumber:10,
+                            title:A Hit Is a Hit,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BNGM0YWNmOGQtYmFiNC00NjU4LWIzMWEtYjMzYmM5NmM4ZTZmXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:1999-03-14,
+                            rating:                {
+                                    average:7.8,
+                                    numVotes:7875            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 1,
+             episodes:         [
+                                {
+                            id:tt0705269,
+                            episodeNumber:11,
+                            title:Nobody Knows Anything,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BYjY5MzFkNmMtNWYxYS00ZTk2LWFjNTYtMGUzNWYyZmIyMmRhXkEyXkFqcGdeQXVyNTQ0NjQzNTE@._V1_.jpg,
+                            releaseDate:1999-03-21,
+                            rating:                {
+                                    average:8.8,
+                                    numVotes:7843            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 1,
+             episodes:         [
+                                {
+                            id:tt0705256,
+                            episodeNumber:12,
+                            title:Isabella,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BZGFlYWFkZDEtNGY2OC00MmVlLTg0NzQtNDkwNTZjZjJmZDQ3XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:1999-03-28,
+                            rating:                {
+                                    average:9.1,
+                                    numVotes:8664            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 1,
+             episodes:         [
+                                {
+                            id:tt0705253,
+                            episodeNumber:13,
+                            title:I Dream of Jeannie Cusamano,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BMTFmZmJhZjgtZWVhZS00MDVkLWJkY2EtZTEyMGQ1ZjAyZmQ3XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:1999-04-04,
+                            rating:                {
+                                    average:9.2,
+                                    numVotes:8609            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 2,
+             episodes:         [
+                                {
+                            id:tt0705250,
+                            episodeNumber:1,
+                            title:Guy Walks Into a Psychiatrist's Office,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BOWE2Nzc0ZDAtZTg1Zi00ZjVmLWFhMWQtNzFiN2EyYTRmZWY5XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2000-01-16,
+                            rating:                {
+                                    average:8.2,
+                                    numVotes:7295            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 2,
+             episodes:         [
+                                {
+                            id:tt0705240,
+                            episodeNumber:2,
+                            title:Do Not Resuscitate,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BNjQyOWFkZjgtMGU2MC00ODg4LThhODUtOWQ4YTk1NDU3ZTI4XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg,
+                            releaseDate:2000-01-23,
+                            rating:                {
+                                    average:8.0,
+                                    numVotes:7050            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 2,
+             episodes:         [
+                                {
+                            id:tt0705288,
+                            episodeNumber:3,
+                            title:Toodle-Fucking-Oo,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BMzVjNmQxMGMtODA4NS00NWJkLWI0OTQtMWE4Mjg0NGE3Y2Q1XkEyXkFqcGdeQXVyNTQ0NjQzNTE@._V1_.jpg,
+                            releaseDate:2000-01-30,
+                            rating:                {
+                                    average:8.4,
+                                    numVotes:7031            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 2,
+             episodes:         [
+                                {
+                            id:tt0705237,
+                            episodeNumber:4,
+                            title:Commendatori,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BZjllZjZmYmYtMGMyMC00YmJkLTk0YTktNDljODIxMjAzYjI2XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2000-02-06,
+                            rating:                {
+                                    average:8.5,
+                                    numVotes:7559            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 2,
+             episodes:         [
+                                {
+                            id:tt0705230,
+                            episodeNumber:5,
+                            title:Big Girls Don't Cry,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BZGY2NGM2YWEtYjljNC00Njc1LThmZDMtMzk4YTQyNTFhYzQ0XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2000-02-13,
+                            rating:                {
+                                    average:8.5,
+                                    numVotes:6950            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 2,
+             episodes:         [
+                                {
+                            id:tt0705278,
+                            episodeNumber:6,
+                            title:The Happy Wanderer,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BNzljNjBkZDEtYWUyZS00ZTJjLWIyOGEtY2QzNzJmYjk3NGJjXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2000-02-20,
+                            rating:                {
+                                    average:8.6,
+                                    numVotes:7087            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 2,
+             episodes:         [
+                                {
+                            id:tt0705238,
+                            episodeNumber:7,
+                            title:D-Girl,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BM2ZhMWI1YjItZjM2ZC00ZjM3LTkwMGUtZGM4ZDNkZmNjYTg0XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2000-02-27,
+                            rating:                {
+                                    average:8.7,
+                                    numVotes:7345            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 2,
+             episodes:         [
+                                {
+                            id:tt0705248,
+                            episodeNumber:8,
+                            title:Full Leather Jacket,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BNGI2NDNjMjMtMTcwMS00MTQxLThiMGQtMTQwYjEwOGNiMjUyXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2000-03-05,
+                            rating:                {
+                                    average:8.8,
+                                    numVotes:7189            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 2,
+             episodes:         [
+                                {
+                            id:tt0705247,
+                            episodeNumber:9,
+                            title:From Where to Eternity,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BOGUxYjBkYzQtZGJlNC00MzY2LWJhZDktY2M2NmYwNzUxMGNhXkEyXkFqcGdeQXVyNTQ0NjQzNTE@._V1_.jpg,
+                            releaseDate:2000-03-12,
+                            rating:                {
+                                    average:8.8,
+                                    numVotes:7157            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 2,
+             episodes:         [
+                                {
+                            id:tt0705232,
+                            episodeNumber:10,
+                            title:Bust-Out,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BNjhhNTY4ZGYtNGIwNy00MDU1LWE1NDctZmRiYzNmODUwMjgzXkEyXkFqcGdeQXVyNTQ0NjQzNTE@._V1_.jpg,
+                            releaseDate:2000-03-19,
+                            rating:                {
+                                    average:8.4,
+                                    numVotes:6661            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 2,
+             episodes:         [
+                                {
+                            id:tt0705252,
+                            episodeNumber:11,
+                            title:House Arrest,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BM2NmZDNmYTItZGM0OS00NDVmLTgwMjUtZDdmYjg0OWNiODE2XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2000-03-26,
+                            rating:                {
+                                    average:8.1,
+                                    numVotes:6678            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 2,
+             episodes:         [
+                                {
+                            id:tt0705279,
+                            episodeNumber:12,
+                            title:The Knight in White Satin Armor,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BNGRmYmE2NWUtYWM3Ni00ZThiLWJhNDAtYjA1ZmZjNmViOWQ0XkEyXkFqcGdeQXVyNTQ0NjQzNTE@._V1_.jpg,
+                            releaseDate:2000-04-02,
+                            rating:                {
+                                    average:9.3,
+                                    numVotes:8375            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 2,
+             episodes:         [
+                                {
+                            id:tt0705249,
+                            episodeNumber:13,
+                            title:Funhouse,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BOTUyZGU2MjktMDk3OC00M2NkLWJkOTUtNzI2MGVkM2ZjOTQ5XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2000-04-09,
+                            rating:                {
+                                    average:9.4,
+                                    numVotes:9182            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 3,
+             episodes:         [
+                                {
+                            id:tt0705266,
+                            episodeNumber:1,
+                            title:Mr. Ruggerio's Neighborhood,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BMTgyNzcxODY3Nl5BMl5BanBnXkFtZTcwMTMwNTU4Mg@@._V1_.jpg,
+                            releaseDate:2001-03-04,
+                            rating:                {
+                                    average:8.6,
+                                    numVotes:7092            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 3,
+             episodes:         [
+                                {
+                            id:tt0705273,
+                            episodeNumber:2,
+                            title:Proshai,
+                 Livushka,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BYWIxNjQ2MDktNWRlMS00OTYzLWIxZWYtZGE2NWRmOWQ3OWJhXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2001-03-04,
+                            rating:                {
+                                    average:8.6,
+                                    numVotes:7031            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 3,
+             episodes:         [
+                                {
+                            id:tt0705246,
+                            episodeNumber:3,
+                            title:Fortunate Son,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BYjBlM2U0MGItOWJhYy00MzBlLWIyZGItN2NlNjdjYWFmOGNjXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2001-03-11,
+                            rating:                {
+                                    average:8.4,
+                                    numVotes:6543            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 3,
+             episodes:         [
+                                {
+                            id:tt0705243,
+                            episodeNumber:4,
+                            title:Employee of the Month,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BZWFiZDM3OTEtMGMzMC00OGM0LWEwYjktNjBiOTdlYjE2MTU4XkEyXkFqcGdeQXVyNjIwNzU1MzQ@._V1_.jpg,
+                            releaseDate:2001-03-18,
+                            rating:                {
+                                    average:9.1,
+                                    numVotes:7799            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 3,
+             episodes:         [
+                                {
+                            id:tt0705228,
+                            episodeNumber:5,
+                            title:Another Toothpick,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BNzBiYTI2YWUtMzUzZC00ZDg0LTgwMjMtMDkxMjk3MGY1N2NmXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2001-03-25,
+                            rating:                {
+                                    average:8.6,
+                                    numVotes:6706            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 3,
+             episodes:         [
+                                {
+                            id:tt0705291,
+                            episodeNumber:6,
+                            title:University,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BOTU1YWM2NDEtM2MzNy00NTkyLWE2YjYtMDA1YWU2MjFiYzExXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2001-04-01,
+                            rating:                {
+                                    average:8.7,
+                                    numVotes:7168            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 3,
+             episodes:         [
+                                {
+                            id:tt0705275,
+                            episodeNumber:7,
+                            title:Second Opinion,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BZDFkN2NiZWUtYjFkMC00ODE4LWIyZTYtNjQ2MjgyNmM5OTNhXkEyXkFqcGdeQXVyNTQ0NjQzNTE@._V1_.jpg,
+                            releaseDate:2001-04-08,
+                            rating:                {
+                                    average:8.4,
+                                    numVotes:6399            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 3,
+             episodes:         [
+                                {
+                            id:tt0705251,
+                            episodeNumber:8,
+                            title:He Is Risen,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BZDMzYjY2MjEtMTliNS00OTI4LTg2ZTYtMzRiZDg3MjUzOTVmXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg,
+                            releaseDate:2001-04-15,
+                            rating:                {
+                                    average:8.3,
+                                    numVotes:6310            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 3,
+             episodes:         [
+                                {
+                            id:tt0705284,
+                            episodeNumber:9,
+                            title:The Telltale Moozadell,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BYzI2MjI4Y2QtZWRmMi00ZDM1LWE2MDYtYmU3NmVjMjQyNjNlXkEyXkFqcGdeQXVyNjE2NjAyNTg@._V1_.jpg,
+                            releaseDate:2001-04-22,
+                            rating:                {
+                                    average:8.1,
+                                    numVotes:6294            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 3,
+             episodes:         [
+                                {
+                            id:tt0705287,
+                            episodeNumber:10,
+                            title:To Save Us All from Satan's Power,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BMmY2MjY0YjMtMzkyYi00YzAwLWJiNGUtNjUwNmY2MGZjNDlmXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2001-04-29,
+                            rating:                {
+                                    average:8.5,
+                                    numVotes:6447            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 3,
+             episodes:         [
+                                {
+                            id:tt0705272,
+                            episodeNumber:11,
+                            title:Pine Barrens,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BMTYwODcxMjc4MF5BMl5BanBnXkFtZTcwMzMwNTU4Mg@@._V1_.jpg,
+                            releaseDate:2001-05-06,
+                            rating:                {
+                                    average:9.7,
+                                    numVotes:14769            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 3,
+             episodes:         [
+                                {
+                            id:tt0705227,
+                            episodeNumber:12,
+                            title:Amour Fou,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BOGUyY2UyMTYtM2M0Yy00YjliLThkNzctYThjMjk1Zjk5ZjhlXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2001-05-13,
+                            rating:                {
+                                    average:9.2,
+                                    numVotes:7426            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 3,
+             episodes:         [
+                                {
+                            id:tt0705229,
+                            episodeNumber:13,
+                            title:Army of One,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BYjk0MWRkZWMtYzY3YS00NWFmLTgyZTItNzJkMjVmYTdkZjk5XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2001-05-20,
+                            rating:                {
+                                    average:9.0,
+                                    numVotes:7229            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 4,
+             episodes:         [
+                                {
+                            id:tt0705245,
+                            episodeNumber:1,
+                            title:For All Debts Public and Private,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BNDE4MGMzMjMtYmNkMS00MzgxLTkwZDEtNWY2NGM3ZDZlMTllXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2002-09-15,
+                            rating:                {
+                                    average:8.2,
+                                    numVotes:6302            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 4,
+             episodes:         [
+                                {
+                            id:tt0705268,
+                            episodeNumber:2,
+                            title:No Show,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BOWMxNmQxMzgtYzc1Yi00MmQzLTg0NzAtYTczMjM1YTY1MWY4XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2002-09-22,
+                            rating:                {
+                                    average:8.3,
+                                    numVotes:6147            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 4,
+             episodes:         [
+                                {
+                            id:tt0705234,
+                            episodeNumber:3,
+                            title:Christopher,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BNTBjMTVmZTQtNTBmZC00N2M4LWI5YTAtZDdmNTg2YzgzNzQyXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2002-09-29,
+                            rating:                {
+                                    average:7.8,
+                                    numVotes:6579            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 4,
+             episodes:         [
+                                {
+                            id:tt0705286,
+                            episodeNumber:4,
+                            title:The Weight,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BNWNjZDBmYTAtMGZmNS00YzdkLWIzNWUtMmVlMTJmMzNlMzRjXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2002-10-06,
+                            rating:                {
+                                    average:8.4,
+                                    numVotes:6270            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 4,
+             episodes:         [
+                                {
+                            id:tt0705271,
+                            episodeNumber:5,
+                            title:Pie-o-My,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BNDQ3MjhhYzQtMDk2MC00ZDA1LTg2ZWUtNjhjMzIwMjUyMzIzXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2002-10-13,
+                            rating:                {
+                                    average:8.1,
+                                    numVotes:6106            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 4,
+             episodes:         [
+                                {
+                            id:tt0705244,
+                            episodeNumber:6,
+                            title:Everybody Hurts,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BYjQyNmRkNGYtM2E1Ni00MWRiLTllNTMtMTdjNzQyZDZlMjg0XkEyXkFqcGdeQXVyNTQ0NjQzNTE@._V1_.jpg,
+                            releaseDate:2002-10-20,
+                            rating:                {
+                                    average:8.4,
+                                    numVotes:6179            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 4,
+             episodes:         [
+                                {
+                            id:tt0705292,
+                            episodeNumber:7,
+                            title:Watching Too Much Television,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BZjEyMTFlMDMtYWE2Yi00MzM2LTliZjctYjVhMzk2MjA4NWZlXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2002-10-27,
+                            rating:                {
+                                    average:8.1,
+                                    numVotes:5997            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 4,
+             episodes:         [
+                                {
+                            id:tt0705265,
+                            episodeNumber:8,
+                            title:Mergers and Acquisitions,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BZTA1OTFkNzgtOGE3Yi00ZGM1LTkxMDEtZDdhOTM3Njk2YjQ5XkEyXkFqcGdeQXVyNjE2NjAyNTg@._V1_.jpg,
+                            releaseDate:2002-11-03,
+                            rating:                {
+                                    average:8.1,
+                                    numVotes:5911            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 4,
+             episodes:         [
+                                {
+                            id:tt0705295,
+                            episodeNumber:9,
+                            title:Whoever Did This,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BY2Y3MDlmZWMtZWQ1NC00NjgzLTkzZWMtMTlkYzkxYzc5MWJiXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2002-11-10,
+                            rating:                {
+                                    average:9.3,
+                                    numVotes:7917            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 4,
+             episodes:         [
+                                {
+                            id:tt0705283,
+                            episodeNumber:10,
+                            title:The Strong,
+                 Silent Type,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BMmViMjQ1MDgtYTE1Yi00OTI5LWE1Y2EtM2Q4MGU5NzU5ZmI0XkEyXkFqcGdeQXVyNTQ0NjQzNTE@._V1_.jpg,
+                            releaseDate:2002-11-17,
+                            rating:                {
+                                    average:8.9,
+                                    numVotes:6578            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 4,
+             episodes:         [
+                                {
+                            id:tt0705233,
+                            episodeNumber:11,
+                            title:Calling All Cars,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BZDIwYTM4ZDktNDJiNi00MzI4LTgyZWEtYjhjZDg1MDY1OTcwXkEyXkFqcGdeQXVyNTQ0NjQzNTE@._V1_.jpg,
+                            releaseDate:2002-11-24,
+                            rating:                {
+                                    average:8.0,
+                                    numVotes:5898            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 4,
+             episodes:         [
+                                {
+                            id:tt0705242,
+                            episodeNumber:12,
+                            title:Eloise,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BMzQ3MWYyMTMtZjFmOS00Zjc5LTk4NmEtMTFhZWRmOTZmNzRhXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2002-12-01,
+                            rating:                {
+                                    average:8.2,
+                                    numVotes:5921            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 4,
+             episodes:         [
+                                {
+                            id:tt0705294,
+                            episodeNumber:13,
+                            title:Whitecaps,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BYmU4YmJjYzctNTZjNy00ZTM4LWIyZGEtOGRkZDk5ZjUyNmM1XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2002-12-08,
+                            rating:                {
+                                    average:9.3,
+                                    numVotes:8207            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 5,
+             episodes:         [
+                                {
+                            id:tt0705289,
+                            episodeNumber:1,
+                            title:Two Tonys,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BNGE4NmRjMmEtNDJjYS00Mjg0LWJkZDEtNjI3MjljMjEwNzQ1XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2004-03-07,
+                            rating:                {
+                                    average:8.6,
+                                    numVotes:6269            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 5,
+             episodes:         [
+                                {
+                            id:tt0705274,
+                            episodeNumber:2,
+                            title:Rat Pack,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BNjk4MjMwM2YtYThmMi00OGU3LWJlM2YtYTA0Y2RjNDE3N2FlXkEyXkFqcGdeQXVyNjE2NjAyNTg@._V1_.jpg,
+                            releaseDate:2004-03-14,
+                            rating:                {
+                                    average:8.3,
+                                    numVotes:5871            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 5,
+             episodes:         [
+                                {
+                            id:tt0705293,
+                            episodeNumber:3,
+                            title:Where's Johnny?,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BM2ZlZTE1ZmUtNDhjOC00NDU1LThhMGItYWJiZDkyNzgxNzE2XkEyXkFqcGdeQXVyNTQ0NjQzNTE@._V1_.jpg,
+                            releaseDate:2004-03-21,
+                            rating:                {
+                                    average:8.6,
+                                    numVotes:6105            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 5,
+             episodes:         [
+                                {
+                            id:tt0705226,
+                            episodeNumber:4,
+                            title:All Happy Families,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BZTJkZDQ2NGItYjdkYi00YThlLWI5NTYtMWY5Y2I5NjU2MWNjXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg,
+                            releaseDate:2004-03-28,
+                            rating:                {
+                                    average:8.5,
+                                    numVotes:5927            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 5,
+             episodes:         [
+                                {
+                            id:tt0705255,
+                            episodeNumber:5,
+                            title:Irregular Around the Margins,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BNWVlZDliMDMtYzAyMC00ZjNhLWE3N2EtYjU4MjY5NjdiZTZkXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2004-04-04,
+                            rating:                {
+                                    average:9.3,
+                                    numVotes:7400            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 5,
+             episodes:         [
+                                {
+                            id:tt0705276,
+                            episodeNumber:6,
+                            title:Sentimental Education,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BZjU0NWJhNzQtN2M2Zi00MGU4LThmNjYtMzI3NWYwOTNlNDViXkEyXkFqcGdeQXVyNTQ0NjQzNTE@._V1_.jpg,
+                            releaseDate:2004-04-11,
+                            rating:                {
+                                    average:8.2,
+                                    numVotes:5811            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 5,
+             episodes:         [
+                                {
+                            id:tt0705254,
+                            episodeNumber:7,
+                            title:In Camelot,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BNjRkY2VhOTAtZWZhYy00ZTA4LTkzODMtNjI1NzQ2Y2Y2MTE2XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2004-04-18,
+                            rating:                {
+                                    average:7.9,
+                                    numVotes:5994            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 5,
+             episodes:         [
+                                {
+                            id:tt0705262,
+                            episodeNumber:8,
+                            title:Marco Polo,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BYTY4ZjRiOWYtYzNkZS00ODRjLTlhOTItZDI0ZDg2YjMzODYwXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2004-04-25,
+                            rating:                {
+                                    average:8.7,
+                                    numVotes:6207            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 5,
+             episodes:         [
+                                {
+                            id:tt0705290,
+                            episodeNumber:9,
+                            title:Unidentified Black Males,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BNjIwODVlYWMtZjFjYy00NWQzLTljOWYtNTdhODIxNTkxMDg4XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2004-05-02,
+                            rating:                {
+                                    average:8.8,
+                                    numVotes:6174            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 5,
+             episodes:         [
+                                {
+                            id:tt0705235,
+                            episodeNumber:10,
+                            title:Cold Cuts,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BNDY2MzQxNjItZDU2Ny00ODdmLWExNWMtNDllYjZiYTUwNTI4XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2004-05-09,
+                            rating:                {
+                                    average:8.6,
+                                    numVotes:6108            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 5,
+             episodes:         [
+                                {
+                            id:tt0705285,
+                            episodeNumber:11,
+                            title:The Test Dream,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BZjQ3NmRlMzYtODc1Mi00YjRkLTkzMjYtYjE1OGM3MGE0OTIwXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2004-05-16,
+                            rating:                {
+                                    average:8.6,
+                                    numVotes:7588            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 5,
+             episodes:         [
+                                {
+                            id:tt0705260,
+                            episodeNumber:12,
+                            title:Long Term Parking,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BMjQxYzRhOWQtN2M0Ni00Njk2LTg2ZmMtNTA1OGU1OTM2ZWViXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2004-05-23,
+                            rating:                {
+                                    average:9.7,
+                                    numVotes:9987            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 5,
+             episodes:         [
+                                {
+                            id:tt0705225,
+                            episodeNumber:13,
+                            title:All Due Respect,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BN2M0N2Q1MDQtNzBhZi00ZjhhLWFiMTYtNGNmN2JhZDRhNmZhXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2004-06-06,
+                            rating:                {
+                                    average:9.3,
+                                    numVotes:7021            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 6,
+             episodes:         [
+                                {
+                            id:tt0705264,
+                            episodeNumber:1,
+                            title:Members Only,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BYTJhNmMwOTctYTViNS00YTI4LTk5YWItMjVlYmE2ZWJiOWQxXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2008-03-08,
+                            rating:                {
+                                    average:9.2,
+                                    numVotes:7297            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 6,
+             episodes:         [
+                                {
+                            id:tt0705258,
+                            episodeNumber:2,
+                            title:Join the Club,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BMTk2NTMyODI2M15BMl5BanBnXkFtZTcwOTIwNTU4Mg@@._V1_.jpg,
+                            releaseDate:2006-03-19,
+                            rating:                {
+                                    average:8.7,
+                                    numVotes:6842            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 6,
+             episodes:         [
+                                {
+                            id:tt0763238,
+                            episodeNumber:3,
+                            title:Mayham,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BYmQyOTk5MjItMmFkNC00MGNhLTlkMzYtNWVkNDlhNjdhYThiXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2006-03-26,
+                            rating:                {
+                                    average:8.8,
+                                    numVotes:6604            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 6,
+             episodes:         [
+                                {
+                            id:tt0705277,
+                            episodeNumber:4,
+                            title:The Fleshy Part of the Thigh,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BYjhmOTc1ZjItZGQ4Ny00NmY4LWJjZTgtMWQ4MmEyZWRhYzIxXkEyXkFqcGdeQXVyNTQ0NjQzNTE@._V1_.jpg,
+                            releaseDate:2006-04-02,
+                            rating:                {
+                                    average:8.4,
+                                    numVotes:5991            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 6,
+             episodes:         [
+                                {
+                            id:tt0705267,
+                            episodeNumber:5,
+                            title:Mr. & Mrs. John Sacrimoni Request,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BMmY5OWNkYjQtNTgxYS00Y2Q4LWFmN2QtZGVlMTg0MjYxYThhXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2006-04-09,
+                            rating:                {
+                                    average:8.8,
+                                    numVotes:6239            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 6,
+             episodes:         [
+                                {
+                            id:tt0705259,
+                            episodeNumber:6,
+                            title:Live Free or Die,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BMmE3NDI2ZjQtMTM0Ni00YzA0LTg3MzItYTBlMzk4ODcyMmQxXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2006-04-16,
+                            rating:                {
+                                    average:8.5,
+                                    numVotes:5920            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 6,
+             episodes:         [
+                                {
+                            id:tt0705261,
+                            episodeNumber:7,
+                            title:Luxury Lounge,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BZWM3ZWNjNWUtY2EzMy00MjJhLTk2NzUtNjgzNWMxYTY4YjRhXkEyXkFqcGdeQXVyNTQ0NjQzNTE@._V1_.jpg,
+                            releaseDate:2006-04-23,
+                            rating:                {
+                                    average:8.2,
+                                    numVotes:5955            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 6,
+             episodes:         [
+                                {
+                            id:tt0705257,
+                            episodeNumber:8,
+                            title:Johnny Cakes,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BMTQyNDIxOTkwMl5BMl5BanBnXkFtZTcwNDIwNTU4Mg@@._V1_.jpg,
+                            releaseDate:2006-04-30,
+                            rating:                {
+                                    average:8.3,
+                                    numVotes:5882            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 6,
+             episodes:         [
+                                {
+                            id:tt0705281,
+                            episodeNumber:9,
+                            title:The Ride,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BMjliNWY1MWUtOTQ3Ni00OTlmLTliMWUtYTEzMzMwN2RhYjI1XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2006-05-07,
+                            rating:                {
+                                    average:8.3,
+                                    numVotes:5958            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 6,
+             episodes:         [
+                                {
+                            id:tt0756404,
+                            episodeNumber:10,
+                            title:Moe n' Joe,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BNDA5MmVjNzEtN2Q3NS00NWNjLTk0MzItODhhNGZjNzJiNTYwXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2006-05-14,
+                            rating:                {
+                                    average:8.1,
+                                    numVotes:5665            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 6,
+             episodes:         [
+                                {
+                            id:tt0790351,
+                            episodeNumber:11,
+                            title:Cold Stones,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BYTA2ZmYxZWQtMzM2Mi00ZjM3LTljZjAtNTg2YWZjMTk1ZTczXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2006-05-21,
+                            rating:                {
+                                    average:8.7,
+                                    numVotes:6013            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 6,
+             episodes:         [
+                                {
+                            id:tt0793256,
+                            episodeNumber:12,
+                            title:Kaisha,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BMTdhYWNhYzAtOTYzYS00YmQ5LTkyOTEtZDRlZThjNzRjNDZjXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2006-06-04,
+                            rating:                {
+                                    average:8.2,
+                                    numVotes:5859            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 6,
+             episodes:         [
+                                {
+                            id:tt0979770,
+                            episodeNumber:13,
+                            title:Soprano Home Movies,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BZDAxNGNlODYtNDA4MC00OTkwLWFkNmQtNGZmNGU4NjUxZWE5XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2007-04-08,
+                            rating:                {
+                                    average:9.0,
+                                    numVotes:7145            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 6,
+             episodes:         [
+                                {
+                            id:tt0979771,
+                            episodeNumber:14,
+                            title:Stage 5,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BMWVjMWJmMDAtYjNiMy00YzRiLWI1Y2EtYzU4ZDgwMjdmZmZiXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2007-04-15,
+                            rating:                {
+                                    average:8.8,
+                                    numVotes:6355            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 6,
+             episodes:         [
+                                {
+                            id:tt0979769,
+                            episodeNumber:15,
+                            title:Remember When,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BZmNmMWJhOTEtMjVjZi00Yzc5LWEyMmYtOGZiNDliYjM3ZjFiXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2007-04-22,
+                            rating:                {
+                                    average:8.5,
+                                    numVotes:6063            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 6,
+             episodes:         [
+                                {
+                            id:tt0995834,
+                            episodeNumber:16,
+                            title:Chasing It,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BN2E5ZDUzN2UtNzJhMy00ZDc1LWJkOTYtYTQyZDgyZDVmYzRhXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2007-04-29,
+                            rating:                {
+                                    average:7.9,
+                                    numVotes:5991            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 6,
+             episodes:         [
+                                {
+                            id:tt0995835,
+                            episodeNumber:17,
+                            title:Walk Like a Man,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BN2NhYTNhMjItNTI4YS00YTdiLTlkYzEtZmJkZGY4OWIwYTQ3XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2007-05-06,
+                            rating:                {
+                                    average:8.9,
+                                    numVotes:6434            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 6,
+             episodes:         [
+                                {
+                            id:tt0995836,
+                            episodeNumber:18,
+                            title:Kennedy and Heidi,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BNzQyOGU3YzEtMTUzMy00MWFhLTkyZDItMGYzYTVmM2ViMTFmXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2008-05-10,
+                            rating:                {
+                                    average:9.1,
+                                    numVotes:7731            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 6,
+             episodes:         [
+                                {
+                            id:tt0995837,
+                            episodeNumber:19,
+                            title:The Second Coming,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BMzEzZDJkY2ItOTJiZi00YzZlLWFjOTQtYjQzNDhiMzkzOTY0XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2008-05-10,
+                            rating:                {
+                                    average:9.3,
+                                    numVotes:7175            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 6,
+             episodes:         [
+                                {
+                            id:tt0995838,
+                            episodeNumber:20,
+                            title:The Blue Comet,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BNGJhOTdjMmUtOGQ5OC00ZGU0LTgwY2ItYjI0YmI3OTU2MjQ0XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2008-05-17,
+                            rating:                {
+                                    average:9.6,
+                                    numVotes:8959            
+                }        
+            }    
+        ]
+    },
+        {
+             seasonNumber: 6,
+             episodes:         [
+                                {
+                            id:tt0995839,
+                            episodeNumber:21,
+                            title:Made in America,
+                            urlImage:https://m.media-amazon.com/images/M/MV5BYThmNjk0ZjQtNmY3Zi00YzYzLWFhNjEtNDlhYmQzZTljNzI2XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg,
+                            releaseDate:2008-05-17,
+                            rating:                {
+                                    average:9.4,
+                                    numVotes:12578            
+                }        
+            }    
+        ]
+    },
+    [
+        ID: /name/nm0001254/,
+         Name: James Gandolfini,
+         Birth Date: 1961-09-18,
+         Gender: male,
+         URL Image: https://m.media-amazon.com/images/M/MV5BMTkwMDY4NDMzN15BMl5BanBnXkFtZTcwNDkzNDE5NQ@@._V1_.jpg,
+         Mini Bios: James Gandolfini was born in Westwood,
+         New Jersey,
+         to Santa (Penna),
+         a high school lunchlady,
+         and James Joseph Gandolfini,
+         Sr.,
+         a bricklayer and head school janitor. His parents were both of Italian origin. Gandolfini began acting in the New York theater. His Broadway debut was in the 1992 revival of \\,
+         ID: /name/nm0004908/,
+         Name: Edie Falco,
+         Birth Date: 1963-07-05,
+         Gender: female,
+         URL Image: https://m.media-amazon.com/images/M/MV5BMTM4NDAzOTk4MF5BMl5BanBnXkFtZTcwNzQ0MzQxMw@@._V1_.jpg,
+         Mini Bios: Edith Falco,
+         called Edie,
+         was born on July 5,
+         1963 in Brooklyn,
+         New York,
+         to Judith Anderson,
+         an actress,
+         and Frank Falco,
+         a jazz drummer. She is of Italian (father) and Swedish,
+         English,
+         and Cornish (mother) descent. Edie grew up on Long Island and attended SUNY Purchase,
+         where she was trained in acting at the prestigious Conservatory of Theatre Arts and Film. She moved to Manhattan after graduation,
+         auditioning for roles and supporting herself as best she could; for example,
+         working parties for an entertainment company where she would wear a Cookie Monster costume and urge people to get on the dance floor. Falco began getting film roles,
+         mostly smaller supporting parts,
+         starting in the late 1980s. Her first notable role was a supporting part in Bullets Over Broadway (1994).\\n\\nIronically,
+         it was in television where the conservatory-trained Falco's career first flowered. She obtained her first recurring roles in 1993,
+         on the acclaimed police dramas Homicide: Life on the Street (1993),
+         as the wife of a blinded police officer,
+         and Law & Order (1990) as a Legal Aid attorney. Next came a recurring role on the prison drama Oz (1997),
+         as a sympathetic corrections officer. All the while she continued to work in film,
+         still in small supporting roles.\\n\\nSupporting herself in acting continued to be a challenge until at last Falco found success in 1999,
+         when she was cast in the HBO series The Sopranos (1999),
+         as Carmela,
+         the wife of New Jersey Mafia street boss Tony Soprano. \\,
+         ID: /name/nm0408284/,
+         Name: Michael Imperioli,
+         Birth Date: 1966-03-26,
+         Gender: male,
+         URL Image: https://m.media-amazon.com/images/M/MV5BMTQ1Nzk2MDg2OV5BMl5BanBnXkFtZTcwNTk4NzQwMw@@._V1_.jpg,
+         Mini Bios: Imperioli was born Michael Imperioli in Mt. Vernon,
+         New York on March 26,
+         1966. His film work began in the late 1980s. An early part that brought him recognition was in Martin Scorsese's Goodfellas (1990),
+         as Spider,
+         a local kid who works for the gangsters and has a run-in with a psychopathic mob soldier played by Joe Pesci. He worked throughout the 1990s in the New York independent film industry,
+         especially as a regular in Spike Lee's movies,
+         appearing in Jungle Fever (1991),
+         Malcolm X (1992),
+         Clockers (1995),
+         Girl 6 (1996) and Summer of Sam (1999),
+         generally playing working-class Italian-Americans from the \\,
+         ID: /name/nm0005523/,
+         Name: Steven Van Zandt,
+         Birth Date: 1950-11-22,
+         Gender: male,
+         URL Image: https://m.media-amazon.com/images/M/MV5BNDAyODEwMTY2N15BMl5BanBnXkFtZTcwOTMzNzg3Ng@@._V1_.jpg,
+         Mini Bios: Steven Van Zandt (né Lento; born November 22,
+         1950),
+         also known as Little Steven or Miami Steve,
+         is an American singer,
+         songwriter,
+         musician,
+         producer,
+         actor,
+         activist and author. He is best known as a member of Bruce Springsteen's E Street Band,
+         in which he plays guitar and mandolin. He is also known for his roles in several television drama series,
+         including as Silvio Dante in The Sopranos (1999-2007) and as Frank Tagliano in Lilyhammer (2012-2014). Van Zandt has his own solo band called Little Steven and The Disciples of Soul,
+         intermittently active since the 1980s. In 2014,
+         he was inducted into the Rock and Roll Hall of Fame as a member of the E Street Band. Van Zandt has produced music,
+         written songs,
+         and had his own songs covered by Bruce Springsteen,
+         Meat Loaf,
+         Nancy Sinatra,
+         Pearl Jam,
+         Artists United Against Apartheid,
+         and the Iron City Houserockers,
+         among others.,
+         ID: /name/nm0407615/,
+         Name: Robert Iler,
+         Birth Date: 1985-03-02,
+         Gender: male,
+         URL Image: https://m.media-amazon.com/images/M/MV5BMTU2MjY5Mjc0NV5BMl5BanBnXkFtZTYwMjYxNTk3._V1_.jpg,
+         Mini Bios: Robert Iler was born on March 2,
+         1985,
+         in New York,
+         New York,
+         USA. He started his show business career at the age of six,
+         when he was discovered by his manager,
+         Jeff Mitchell of J. Mitchell Management,
+         walking down the street in Manhattan with his dad. He immediately was hired to appear in a commercial for Pizza Hut. Afterwards he took some time off to concentrate on school. Then at the age of ten,
+         Robert returned to the business and appeared in his first feature film The Tic Code (1998),
+         and several more commercials for IBM,
+         AT&T,
+         VH1,
+         and ESPN,
+         as well as an episode of Saturday Night Live (1975) appearing with Rosie O'Donnell. In 1999,
+         he made his breakthrough performance playing Anthony 'A.J.' Soprano,
+         Jr. in HBO's hit drama series The Sopranos (1999). In 2001,
+         he appeared in the film Tadpole (2000)_.
+    ]"
+}
