@@ -47,6 +47,11 @@ This project consists of several Java classes that work together to perform the 
 
 ## Usage
 
+Clone the repository:
+   ```
+   git clone https://github.com/Fuguety/MoviesDataBase.git
+   ```
+
 1. Open `Main.java` and set the `apiKey` variable with your RapidApi key.
 2. Run the `Main` class to initiate the series data retrieval process.
 3. Check the generated JSON files for the collected data.
