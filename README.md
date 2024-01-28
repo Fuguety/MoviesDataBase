@@ -73,5 +73,7 @@ Make sure to handle your RapidApi key securely and avoid sharing it publicly.
 Recommended IDE: ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) </br>
 
 
+This project is licensed under the **[MIT License](https://opensource.org/license/mit/).**
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
